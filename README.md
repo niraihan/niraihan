@@ -15,7 +15,7 @@ I'm a passionate Web Developer from Bangladesh 🇧🇩  <br>I enjoy building re
 A full-stack app to manage marathon events with user authentication, event registration, JWT, and MongoDB.
 
 **Tech Stack:** React, React Router, Firebase Auth, Node.js, Express, MongoDB, Tailwind CSS, DaisyUI  
-[🔗 Live Site](#) | [📦 GitHub Repo](#)
+[🔗 Live Site](https://assignment11-d7122.web.app) | [📦 GitHub Repo](#)
 
 ---
 
@@ -23,7 +23,7 @@ A full-stack app to manage marathon events with user authentication, event regis
 Helps users track plant care schedules and manage personal garden data with authentication and database.
 
 **Tech Stack:** React, React Router, Firebase, MongoDB, Tailwind CSS, DaisyUI  
-[🔗 Live Site](#) | [📦 GitHub Repo](#)
+[🔗 Live Site](https://assignment10-f3015.web.app) | [📦 GitHub Repo](#)
 
 
 
