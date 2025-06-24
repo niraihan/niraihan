@@ -67,7 +67,7 @@ A full-stack app to manage marathon events with user authentication, event regis
 Track and manage your plant care tasks like watering, light exposure, and fertilization.
 
 **Tech Stack:** React, Firebase, MongoDB, Tailwind CSS, DaisyUI  
-🔗 [Live Site](https://assignment10-f3015.web.app) | 📦 [GitHub Repo](#)
+🔗 [Live Site](https://assignment10-f3015.web.app) | 📦 [GitHub Repo](https://github.com/niraihan/plant-care-tracker)
 
 ---
 
