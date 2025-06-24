@@ -97,7 +97,7 @@ Track and manage your plant care tasks like watering, light exposure, and fertil
 ---
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niraihan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niraihan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=niraihan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niraihan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
