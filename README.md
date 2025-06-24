@@ -2,13 +2,23 @@
 
 # 👋 Hi, I'm Nurul Islam Rayhan!
 
+🌍 **Location:** Bangladesh  
+✉️ **Email:** raihan14un@gmail.com  
+💼 **Designation:** Frontend-Focused Full Stack Web Developer
+
 ## 💫 About Me
 I'm a passionate Web Developer from **Bangladesh 🇧🇩**  
 I enjoy building responsive, dynamic, and user-friendly web applications using modern technologies.  
 I’m constantly learning and looking for new opportunities to grow and build amazing things!
 
 ---
+### 🔍 Currently:
+- 🚧 Working on a **Progamming Hero**
+- 🌱 Exploring **Node.js** and **Mongoose**
+- 📊 Learning advanced MongoDB Aggregation & Security (JWT, Auth)
+- 🧪 Building projects with **React + Firebase + Node.js**
 
+- 
 ## 🌐 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/niraihan2)
@@ -53,22 +63,32 @@ I’m constantly learning and looking for new opportunities to grow and build am
 
 ---
 
-## 📁 Featured Projects
+## 📌 Pinned Projects
 
 ### 🏃 Marathon Management System
 A full-stack app to manage marathon events with user authentication, event registration, JWT, and MongoDB.
 
-**Tech Stack:** React, Firebase Auth, Node.js, Express.js, MongoDB, Tailwind CSS, DaisyUI  
+  
 🔗 [Live Site](https://assignment11-d7122.web.app) | 📦 [GitHub Repo](https://github.com/niraihan/Marathon-Management-System)
 
+**Features:**
+- JWT-secured private routes
+- Event creation & registration
+- Admin dashboard & analytics
+**Tech Stack:** React, Firebase Auth, Node.js, Express.js, MongoDB, Tailwind CSS, DaisyUI,jsonwebtoken ,axios
+**Dependencies:** `react-router-dom`, ``, ``, `express`, `cors`, `mongodb`
 ---
 
 ### 🌱 Plant Care Tracker
 Track and manage your plant care tasks like watering, light exposure, and fertilization.
 
-**Tech Stack:** React, Firebase, MongoDB, Tailwind CSS, DaisyUI  
+  
 🔗 [Live Site](https://assignment10-f3015.web.app) | 📦 [GitHub Repo](https://github.com/niraihan/plant-care-tracker)
-
+**Features:**
+-Login/Register system
+-Add/Edit/Delete plants
+-Mobile responsive UI
+**Tech Stack:** React, Firebase, MongoDB, Tailwind CSS, DaisyUI
 ---
 
 # 📊 GitHub Stats:
