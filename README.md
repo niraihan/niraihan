@@ -96,6 +96,18 @@ Track and manage your plant care tasks like watering, light exposure, and fertil
 
 ---
 
+# 💼 JobTrack – A Job Listing and Tracking Web App
+
+**JobTrack** is a fully responsive and user-friendly web application that allows users to browse, search, and track job opportunities. It's designed to help job seekers organize their applications, view job details, and manage their progress—all in one place.
+
+---
+
+## 🌐 Live Preview
+
+🔗 **Live Site:** [https://niraihan-assignment09.surge.sh/](https://niraihan-assignment09.surge.sh/)
+
+---
+
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niraihan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=niraihan&theme=dark&hide_border=false)<br/>
