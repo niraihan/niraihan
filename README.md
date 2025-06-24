@@ -13,7 +13,7 @@ I’m constantly learning and looking for new opportunities to grow and build am
 
 ---
 ### 🔍 Currently:
-- 🚧 Working on a **Progamming Hero**
+- 🚧 Following a course on Programming Hero
 - 🌱 Exploring **Node.js** and **Mongoose**
 - 📊 Learning advanced MongoDB Aggregation & Security (JWT, Auth)
 - 🧪 Building projects with **React + Firebase + Node.js**
