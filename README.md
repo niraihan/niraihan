@@ -75,8 +75,9 @@ A full-stack app to manage marathon events with user authentication, event regis
 - JWT-secured private routes
 - Event creation & registration
 - Admin dashboard & analytics
+
 **Tech Stack:** React, Firebase Auth, Node.js, Express.js, MongoDB, Tailwind CSS, DaisyUI,jsonwebtoken ,axios
-**Dependencies:** `react-router-dom`, ``, ``, `express`, `cors`, `mongodb`
+
 ---
 
 ### 🌱 Plant Care Tracker
