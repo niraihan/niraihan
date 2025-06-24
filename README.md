@@ -59,7 +59,7 @@ I’m constantly learning and looking for new opportunities to grow and build am
 A full-stack app to manage marathon events with user authentication, event registration, JWT, and MongoDB.
 
 **Tech Stack:** React, Firebase Auth, Node.js, Express.js, MongoDB, Tailwind CSS, DaisyUI  
-🔗 [Live Site](https://assignment11-d7122.web.app) | 📦 [GitHub Repo](#)
+🔗 [Live Site](https://assignment11-d7122.web.app) | 📦 [GitHub Repo](https://github.com/niraihan/Marathon-Management-System)
 
 ---
 
