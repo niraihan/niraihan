@@ -71,17 +71,10 @@ Track and manage your plant care tasks like watering, light exposure, and fertil
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niraihan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraihan&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=niraihan&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=niraihan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=niraihan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niraihan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 _Thanks for visiting my profile! Feel free to connect with me and explore my projects. Let’s build something great together! 🚀_
