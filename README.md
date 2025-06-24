@@ -85,11 +85,15 @@ Track and manage your plant care tasks like watering, light exposure, and fertil
 
   
 🔗 [Live Site](https://assignment10-f3015.web.app) | 📦 [GitHub Repo](https://github.com/niraihan/plant-care-tracker)
+
 **Features:**
 -Login/Register system
 -Add/Edit/Delete plants
 -Mobile responsive UI
+
 **Tech Stack:** React, Firebase, MongoDB, Tailwind CSS, DaisyUI
+
+
 ---
 
 # 📊 GitHub Stats:
