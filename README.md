@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="https://i.ibb.co/pj46TBqx/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Banner" width="100%" />
+# 👋 Hi, I'm Nurul Islam Rayhan!
 # 💫 About Me:
 I'm a passionate Web Developer from Bangladesh 🇧🇩  <br>I enjoy building responsive, dynamic, and user-friendly web applications using modern technologies.
 
